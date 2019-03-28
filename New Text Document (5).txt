@@ -1,0 +1,9 @@
+ID:ATzEvkcUIrQdGbc_RNbCf5KHcVVjx7dbIMGIXFymRfaCvxQtTxe6EUfWGoc0pSHSfd44ncio10diLOUD
+
+secret:EMSz1E499nZ_Hrom90Z1_rQjfH9knO8pTNI4znrXiTsRClkirRMwmYeL9WNbp7x3yZOMATP_PLJk9FsR
+
+
+
+https://crunchify.com/paypal-java-sdk-tutorial-authorization-call/
+https://www.youtube.com/watch?v=XwSWAl7er80
+https://www.youtube.com/watch?v=cHyRurYx4xU
